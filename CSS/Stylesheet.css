@@ -1,0 +1,23 @@
+html{
+    font-family: sans-serif;
+}
+
+header{
+    color: #120323
+}
+h2{
+    color: #120323
+}
+main{
+    flex: 1;
+}
+img{
+    grid: 1;
+    align-content: center;
+    width: 100%;
+}
+
+
+footer{
+   color: #d9043d
+}
